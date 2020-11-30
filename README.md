@@ -21,5 +21,5 @@ I'm BlackFlame33.
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=BlackFlame33&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/BlackFlame33">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackFlame33&layout=compact&theme=vue" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackFlame33&theme=vue" />
 </a>
