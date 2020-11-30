@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**BlackFlame33/BlackFlame33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm BlackFlame33.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on college, as a student. :)
+- 🌱 I’m currently learning Vim.
+- 👯 I’m looking to collaborate on This &darr;: want some advice and teach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![vimrc Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackFlame33&repo=vimrc&theme=vue)](https://github.com/BlackFlame33/vimrc)
+
+- 🤔 I’m looking for help with Vim, it's really kind of hard!
+- 💬 Welcome to discuss.
+- 📫 How to reach me: [email](mailto:blackflame33@icloud.com) and [blog](http://blackflame33.cn/)
+
+[![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackFlame33&repo=BlackFlame33.github.io&theme=vue)](https://github.com/BlackFlame33/BlackFlame33.github.io)
+
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: want to learn 24h * 365 * 100~Ohhhhhhh+ ~\QAQ/~
+
+<a href="https://github.com/BlackFlame33">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=BlackFlame33&show_icons=true&theme=vue" />
+</a>
+<a href="https://github.com/BlackFlame33">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackFlame33&layout=compact&theme=vue" />
+</a>
