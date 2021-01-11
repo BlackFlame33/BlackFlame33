@@ -4,16 +4,13 @@ I'm BlackFlame33.
 
 - 🔭 I’m currently working on college, as a student. :)
 - 🌱 I’m currently learning Vim.
-- 👯 I’m looking to collaborate on This &darr;: want some advice and teach.
+- 👯 I’m looking to collaborate on This &darr;: want some advice and guidance.
 
 [![vimrc Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackFlame33&repo=vimrc&theme=vue)](https://github.com/BlackFlame33/vimrc)
 
 - 🤔 I’m looking for help with Vim, it's really kind of hard!
 - 💬 Welcome to discuss.
 - 📫 How to reach me: [email](mailto:blackflame33@icloud.com) and [blog](http://blackflame33.cn/)
-
-[![Blog Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackFlame33&repo=BlackFlame33.github.io&theme=vue)](https://github.com/BlackFlame33/BlackFlame33.github.io)
-
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: want to learn 24h * 365 * 100~Ohhhhhhh+ ~\QAQ/~
 
