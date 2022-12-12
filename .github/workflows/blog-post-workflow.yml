@@ -12,4 +12,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
+                filter_comments: ""
                 feed_list: "https://blackflame33.cn/atom.xml"
